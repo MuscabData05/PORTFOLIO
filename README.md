@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muscab Abdisamed</h1>
-<h3 align="center">Data Analyst | Python, SQL, Excel, Power BI | Turning Data into Insightful Decisions</h3>
+<h3 align="center">Self-Taught Data Analyst | Python, SQL, Excel, Power BI | Turning Data into Insightful Decisions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuscabData05&label=Profile%20views&color=0e75b6&style=flat" alt="MuscabData05" /> </p>
 
